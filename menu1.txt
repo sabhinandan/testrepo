@@ -6,3 +6,4 @@ This is rebase commit1
 This is rebase commit2
 
 This is merge commit1
+This is master megecommit 1
